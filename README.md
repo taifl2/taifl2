@@ -50,5 +50,5 @@ Learning to evaluate LLM answers properly instead of eyeballing them, and turnin
 <br>
 
 <p>
-<a href="https://www.linkedin.com/in/taif-alanzi-is/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/taifalanzi/">LinkedIn</a>
 </p>
