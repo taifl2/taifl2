@@ -31,11 +31,9 @@ An AI study room built with three teammates. My part: when the camera spots a ph
 
 ## Certifications
 
-| | |
-|---|---|
-| **Agentic AI Engineering** | SDAIA |
-| **Agentic AI Bootcamp** | Saudi Digital Academy × WeCloudData, 2026 |
-| **AWS AI Practitioner learning path** | Saudi Digital Academy & MCIT, 2026 |
+**Agentic AI Engineering** &nbsp;·&nbsp; SDAIA<br>
+**Agentic AI Bootcamp** &nbsp;·&nbsp; Saudi Digital Academy × WeCloudData, 2026<br>
+**AWS AI Practitioner learning path** &nbsp;·&nbsp; Saudi Digital Academy & MCIT, 2026
 
 ## What I work with
 
