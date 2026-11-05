@@ -13,7 +13,7 @@
 
 I'm Taif, an Information Systems graduate from Najran University. I build technology for real problems, and lately that means AI: language-model agents that search and reason, retrieval systems that stay grounded in their sources, and computer vision that changes how an app responds.
 
-AI isn't the only thing I've built. I've worked on an AR and AI assistant for pilgrims, a VR therapy experience, and a recycling robot for the World Robot Olympiad. Outside projects, I led my university's programming club, led a hackathon and innovation expo, and have been an IBM SkillsBuild and Oracle ambassador.
+AI isn't the only thing I've built. I've worked on an AR and AI assistant for pilgrims, an augmented-reality experience that helps children through physical therapy, and an oil-recycling robot that represented Saudi Arabia at the World Robot Olympiad in Singapore. Outside projects, I led my university's programming club, led a hackathon and innovation expo, and have been an IBM SkillsBuild and Oracle ambassador.
 
 What ties it together is how Information Systems taught me to think: understand the process and the people in it first, then choose the technology that actually helps.
 
@@ -40,7 +40,7 @@ An Arabic agent that tells job seekers which HRDF-supported certifications fit t
 <td width="50%" valign="top">
 <a href="https://github.com/Attocus/Attocus"><img src="assets/attocus.svg" alt="Attocus"></a>
 <h3><a href="https://github.com/Attocus/Attocus">Attocus</a></h3>
-An AI study room built with three teammates. When the camera spots a phone, the study timer pauses; when the phone goes down, a short quiz brings the student back. I built that flow, the full-screen study view, and the Firestore contact form, and worked on the bilingual interface.
+An AI study room built by a team of four within a SDAIA program. It turns lecture slides into quizzes, offers an AI tutor, and uses the camera to notice when attention drifts. My part: developing the agent, building the user interfaces, and the Firestore databases.
 <br><br>
 <sub>React · TypeScript · OpenAI · Firestore · YOLO · MediaPipe &nbsp;|&nbsp; Team of 4</sub>
 </td>
@@ -56,18 +56,18 @@ An AI study room built with three teammates. When the camera spots a phone, the 
 
 ## Earlier work
 
-| Project | What it is |
-|---|---|
-| **UniReco** | Graduation project (team): a system for managing academic recommendation letters |
-| **Wjhny** | An assistant for pilgrims that combines augmented reality with AI |
-| **Bunyan** | A virtual-reality therapy experience |
-| **Recoil** | A recycling robot built for the World Robot Olympiad |
+| Project | What it is | Recognition |
+|---|---|---|
+| **ReOil** | A robot that helps recycle oils into an alternative to fossil fuels (team project) | Top 6 in Saudi Arabia · represented the Kingdom at the World Robot Olympiad (WRO) 2025 international final in Singapore |
+| **Bunyan** | An AR/VR experience that helps children through physical therapy | 3rd place, Innovathon |
+| **UniReco** | Graduation project (team): a system for managing academic recommendation letters | |
+| **Wjhny** | An assistant for pilgrims that combines augmented reality with AI | |
 
 ## Leadership
 
-- **Programming Club Leader**, Najran University
+- **Programming Club Team Lead**, Najran University (the club placed 3rd among the university's clubs)
 - **Hackathon & Innovation Expo Leader**
-- **IBM SkillsBuild & Oracle Ambassador**
+- **IBM SkillsBuild, Oracle & Hult Prize Ambassador**
 - **Student Advisory Council Representative** for Information Systems
 
 ## Certifications
